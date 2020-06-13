@@ -1,0 +1,1 @@
+var name="maaz",age=20,height=5.9;
